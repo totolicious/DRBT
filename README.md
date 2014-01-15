@@ -1,4 +1,4 @@
-DRBT
-====
+Domnul Robot (DRBT)
+===================
 
-DRBT
+:)
